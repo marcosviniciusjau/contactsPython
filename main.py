@@ -79,7 +79,6 @@ while True:
     print("6- Excluir contato")
     print("7- Sair")
 
-    try:
         escolha = int(input("Digite sua escolha:"))
 
         if escolha == "1":
